@@ -6,3 +6,4 @@ Progress on a throwback Zelda clone with Pygame. Move with arrow keys, transform
 > $ python3 main.py
 
 
+ECHO is on.
